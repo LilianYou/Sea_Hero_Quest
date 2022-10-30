@@ -1,7 +1,7 @@
 # Sea Hero Quest
 Code corresponding to the paper:
 
-Cheng, Y.\*, He, C.\*, Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. Machine Learning with Applications, 100419. denotes equal authorship
+Cheng, Y.\*, He, C.\*, Hegarty, M., & Chrastil, E. R. (2022). Who believes they are good navigators? A machine learning pipeline highlights the impact of gender, commuting time, and education. Machine Learning with Applications, 100419. \* denotes equal authorship
 
 - Section 3.1, Figure 2. [Data Preprocessing & Filtering](https://github.com/LilianYou/Sea_Hero_Quest/blob/main/Raw_UserData_PreProcessing.ipynb)
 
